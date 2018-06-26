@@ -1,6 +1,7 @@
 # PythonClass
 This is for learning Python and use python to develop project
 
+### 持续更新各种学习资料，共同学习，共同进步
 
 ### 学习资源链接
 https://www.readwithu.com/
@@ -11,3 +12,6 @@ https://blog.csdn.net/nzjdsds/article/details/77506254
 
 ### Python学习资料
 https://www.zhihu.com/question/34907211/answer/60369202
+
+### Github上面开源项目
+https://github.com/TheAlgorithms/Python
