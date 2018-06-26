@@ -15,4 +15,8 @@ https://www.zhihu.com/question/34907211/answer/60369202
 
 ### Github上面开源项目
 https://github.com/TheAlgorithms/Python
+
 https://github.com/geekcomputers/Python
+
+### 程序员常用网站
+https://github.com/xuyingjun/Best-websites-a-programmer-should-visit-zh
