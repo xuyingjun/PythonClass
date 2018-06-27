@@ -26,3 +26,6 @@ https://github.com/xuyingjun/Best-websites-a-programmer-should-visit-zh
 + 代码链接： https://github.com/carefree0910/MachineLearning
 + 知乎文章链接： https://zhuanlan.zhihu.com/carefree0910-pyml
 + 博客链接： http://www.carefree0910.com/
+
+### 机器学习实战
+https://github.com/apachecn/MachineLearning
