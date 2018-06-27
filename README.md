@@ -20,3 +20,9 @@ https://github.com/geekcomputers/Python
 
 ### 程序员常用网站
 https://github.com/xuyingjun/Best-websites-a-programmer-should-visit-zh
+
+
+### Python机器学习相关资源链接
++ 代码链接： https://github.com/carefree0910/MachineLearning
++ 知乎文章链接： https://zhuanlan.zhihu.com/carefree0910-pyml
++ 博客链接： http://www.carefree0910.com/
