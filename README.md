@@ -29,3 +29,7 @@ https://github.com/xuyingjun/Best-websites-a-programmer-should-visit-zh
 
 ### 机器学习实战
 https://github.com/apachecn/MachineLearning
+
+
+### 100 days to learn Machine Learning
+https://github.com/xuyingjun/100-Days-Of-ML-Code
