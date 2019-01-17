@@ -33,3 +33,9 @@ https://github.com/apachecn/MachineLearning
 
 ### 100 days to learn Machine Learning
 https://github.com/xuyingjun/100-Days-Of-ML-Code
+
+### Python Extension Packages for Installation
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
+### Python Learning Website
+http://www.python88.cn/
