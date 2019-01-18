@@ -39,3 +39,6 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 ### Python Learning Website
 http://www.python88.cn/
+
+### Python Project Learning
+https://github.com/Jack-Cherish/python-spider
