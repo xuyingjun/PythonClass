@@ -1,0 +1,15 @@
+def maxSubArray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        if not nums:
+            return 0;
+        result = nums[0];
+        thisSum = nums[0];
+        for num in nums[1:]:
+            if thisSum < 0:
+                thisSum = 0
+            thisSum += num
+            result = max(result, thisSum)
+        return result
